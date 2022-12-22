@@ -8,11 +8,11 @@
 ---
 
 
- ##### 🦖Channel  
+ #### 🦖Channel  
  [Youtube](https://www.youtube.com/channel/UCJ12yTJr8-HgEyZ68n8-eXQ)  
  [Blog](https://blog.naver.com/hellorma)  
 <br/>
  
- ##### 🐻‍❄️Contact  
+ #### 🐻‍❄️Contact  
  ryuminah0718@gmail.com
 </div>
