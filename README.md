@@ -1,4 +1,5 @@
-<div align = "center">
+<div align = "center"><br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuminah&thema=nord&langs_count=4&layout=compact&hide=Batchfile,c&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)  
 
 
@@ -7,11 +8,11 @@
 ---
 
 
- ####🦖 Channel  
+ ##### 🦖Channel  
  [Youtube](https://www.youtube.com/channel/UCJ12yTJr8-HgEyZ68n8-eXQ)  
  [Blog](https://blog.naver.com/hellorma)  
 <br/>
  
- ####🐻‍❄️ Contact  
+ ##### 🐻‍❄️Contact  
  ryuminah0718@gmail.com
 </div>
