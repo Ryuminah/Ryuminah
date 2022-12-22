@@ -9,7 +9,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryuminah&count_private=true&show_icons=true&theme=nord&hide_title=true&hide=prs)  
  <br/>
  
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hellorma)](https://solved.ac/hellorma/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hellorma)](https://solved.ac/hellorma/)
   <br/> <br/>
 ---
 
