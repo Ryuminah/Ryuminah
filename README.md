@@ -11,7 +11,7 @@
 
  ### 🦖Channel  
  [Youtube](https://www.youtube.com/channel/UCJ12yTJr8-HgEyZ68n8-eXQ)  
- [Blog](https://blog.naver.com/hellorma)  
+ [Blog](https://dev-oat.tistory.com)  
 <br/>
  
  ### 🐻‍❄️Contact  
